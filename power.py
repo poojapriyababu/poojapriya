@@ -1,3 +1,3 @@
-n=int(input())
+num=int(input())
 k=int(input())
-print(pow(n,k))
+print(pow(num,k))
