@@ -1,0 +1,5 @@
+m=int(input())
+n=int(input())
+s=int(input())
+sum=int(int(m*(2*n+(m-1)*s))/2)
+print(sum)
